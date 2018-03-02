@@ -1,2 +1,3 @@
 # hello-word
-my first repository
+my first 不同repository，不同
+学习，第一次使用
